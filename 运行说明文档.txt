@@ -1,0 +1,14 @@
+Commands introduction:
+        'ls -users':            					Show all online users
+        'ls -chatrooms':       				Show all chat rooms
+        'ls -rmbs room_name '           		Show all online users in the chat room you joined
+        'send username mesg':   			Send a message to the user named 'username' msg:the content of the message
+        'join chatroom passwd': 			Join in a chat room named 'chatroom' with password 'passwd'
+        'create chatrname passwd':      		Create a chat room named 'chatrname' with password 'passwd'
+        'send -chatroom room_name msg': 	Send a message to the chat room
+        'leave chatroom_name':                  	Exit the chat room you joined
+        'send -all msg':        				Send a message to all online users
+        'login':                					Login chat system
+        'register':            				 	Create an account
+        'quit':                 					Exit chat system
+        'help':                 					Get more help information
